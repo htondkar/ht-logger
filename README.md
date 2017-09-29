@@ -1,6 +1,9 @@
 # ht-logger
 A mini tool to log colorful text into browser console with font-size option
 
+## Install
+`npm install --save ht-logger`
+
 ## How to use
 `import logger from 'ht-logger'`
 
